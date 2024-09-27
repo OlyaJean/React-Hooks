@@ -12,3 +12,4 @@ const Contact = () => {
 }
 
 export default Contact
+// init the variable  phone and assign it to use context from (UseContextHook) file

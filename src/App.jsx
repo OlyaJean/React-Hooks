@@ -44,6 +44,9 @@ function App() {
       <Profile/>
       <ComponentForContextHook/>
       <Contact/>
+      <hr />
+      <Title title="useCustom Hook"/>
+      <hr />
 
 
     </div>
